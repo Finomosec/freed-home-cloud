@@ -44,7 +44,7 @@ lassen:
 Die Dienste, für die sich der Betrieb überhaupt lohnt — pro Haushalt zuschaltbar:
 
 - **Dateien, Kalender und Kontakte** — der Kern des digitalen Alltags, synchron auf allen Geräten
-- **Musik-Streaming** — die eigene Sammlung, zuhause und unterwegs
+- **Musik- und Film-Streaming** — die eigene Musik- und Filmsammlung, zuhause und unterwegs
 - **Passwort-Manager** — Zugangsdaten bleiben auf der eigenen Hardware
 - **Geräte-Sync** — laufender Dateiabgleich zwischen PCs, Handys und Tablets
 - **PDF-Werkzeugkasten** — zusammenführen, teilen, signieren und wandeln, ohne Upload zu Fremden

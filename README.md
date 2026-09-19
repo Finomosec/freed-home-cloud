@@ -41,7 +41,7 @@ A modular platform whose components can be switched on as needed:
 The services that make the platform worth running, switchable per household:
 
 - **Files, calendar and contacts** — the core of everyday digital life, synced across every device
-- **Music streaming** — your own library, streamed at home and on the road
+- **Music and film streaming** — your own record and movie collection, at home and on the road
 - **Password manager** — credentials stay on your own hardware
 - **Device sync** — continuous file sync between PCs, phones and tablets
 - **PDF toolbox** — merge, split, sign and convert without an upload to a stranger
