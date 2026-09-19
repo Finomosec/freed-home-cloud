@@ -36,10 +36,22 @@ A modular platform whose components can be switched on as needed:
 - **Encrypted storage** — data at rest is encrypted on local disks
 - **Layered backups** — snapshots, local mirroring, off-site redundancy
 
-Planned building blocks include files/calendar/contacts, music streaming, a
-password manager, device sync, a PDF toolbox, a DNS-level ad filter, metrics and
-monitoring, mail, and a local AI assistant. Wherever a good open-source project
-already exists, it gets integrated rather than reinvented.
+## Planned modules
+
+The services that make the platform worth running, switchable per household:
+
+- **Files, calendar and contacts** — the core of everyday digital life, synced across every device
+- **Music streaming** — your own library, streamed at home and on the road
+- **Password manager** — credentials stay on your own hardware
+- **Device sync** — continuous file sync between PCs, phones and tablets
+- **PDF toolbox** — merge, split, sign and convert without an upload to a stranger
+- **Ad filtering** — network-wide, at DNS level, for every device in the house
+- **Metrics and monitoring** — see what the system is doing and when it needs attention
+- **Mail** — your own mailbox, optionally under your own domain
+- **Local AI assistant** — a model running on your hardware, for support and automation
+
+Wherever a good open-source project already exists, it gets integrated rather
+than reinvented.
 
 ## The hard part: distributed backup
 

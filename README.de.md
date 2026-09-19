@@ -39,10 +39,21 @@ lassen:
 - **Verschlüsselter Speicher** — Daten liegen verschlüsselt auf lokalen Platten
 - **Mehrstufige Backups** — Snapshots, lokale Spiegelung, Redundanz an anderem Ort
 
-Geplante Bausteine sind unter anderem Dateien/Kalender/Kontakte, Musik-Streaming,
-ein Passwort-Manager, Geräte-Sync, ein PDF-Werkzeugkasten, ein Werbeblocker auf
-DNS-Ebene, Metriken und Monitoring, E-Mail sowie eine lokale KI-Assistenz. Wo es
-bereits ein gutes Open-Source-Projekt gibt, wird es integriert statt neu
+## Geplante Module
+
+Die Dienste, für die sich der Betrieb überhaupt lohnt — pro Haushalt zuschaltbar:
+
+- **Dateien, Kalender und Kontakte** — der Kern des digitalen Alltags, synchron auf allen Geräten
+- **Musik-Streaming** — die eigene Sammlung, zuhause und unterwegs
+- **Passwort-Manager** — Zugangsdaten bleiben auf der eigenen Hardware
+- **Geräte-Sync** — laufender Dateiabgleich zwischen PCs, Handys und Tablets
+- **PDF-Werkzeugkasten** — zusammenführen, teilen, signieren und wandeln, ohne Upload zu Fremden
+- **Werbeblocker** — netzweit auf DNS-Ebene, für jedes Gerät im Haus
+- **Metriken und Monitoring** — sehen, was das System tut und wann es Aufmerksamkeit braucht
+- **E-Mail** — das eigene Postfach, auf Wunsch unter eigener Domain
+- **Lokale KI-Assistenz** — ein Modell auf der eigenen Hardware, für Support und Automatisierung
+
+Wo es bereits ein gutes Open-Source-Projekt gibt, wird es integriert statt neu
 erfunden.
 
 ## Der schwierige Teil: verteiltes Backup
