@@ -2,7 +2,7 @@
 
 # Freed Home Cloud
 
-> *"These are my data, and I am keeping them to myself."*
+> *"This is my data, and I'm keeping it to myself."*
 
 A modular, self-hosted home cloud — free from Google, Microsoft and the other
 hyperscalers. Privacy first, encrypted, multi-user, and designed to run on
